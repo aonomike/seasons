@@ -1,3 +1,4 @@
+This project is done based on section 4 of the [Udemy React Redux](https://www.udemy.com/react-redux/). The project implements climate seasons in the Nothern and Southern hemisphere. The main pusrpose is to learn class based components. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
